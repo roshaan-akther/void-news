@@ -2,66 +2,59 @@
   "updates": [
     {
       "id": 1,
-      "title": "VoidAI v2.1.0 - Enhanced Alpha Experience",
-      "description": "Major improvements to sidebar navigation, user profiles, and overall user experience based on early alpha feedback.",
-      "date": "February 28, 2026",
+      "title": "VoidAI Pedro - The Foundation",
+      "description": "First public alpha release with multi-model chat capabilities and few core Void assistant features.",
+      "date": "January 1, 2026",
       "category": "Feature Update",
       "features": [
-        "Redesigned sidebar with improved navigation and user profile dropdown",
-        "Mode selection guide with helpful explanations for Fast vs Power modes",
-        "Enhanced user profiles with Gravatar integration and high-quality avatars",
-        "Improved MessageBar positioning for better layout consistency",
-        "Mobile-first responsive design improvements",
-        "Streamlined dropdown menus and better accessibility"
+        "400+ AI models including major providers such as, GPT-5.2, Claude 4.5, Grok 4.1, Mistral, Llama 4, Qwen, Deepseek, and Gemini",
+        "Simple chat interface"
       ]
     },
     {
       "id": 2,
-      "title": "VoidAI v2.0 - Major Architecture Update",
-      "description": "Complete overhaul with A2A protocol integration, enhanced voice recognition, and advanced tool management.",
-      "date": "January 15, 2026",
-      "category": "Major Update",
+      "title": "Language Support Update",
+      "description": "Added support for 47 languages with persistent language selection in Explore settings.",
+      "date": "January 12, 2026",
+      "category": "Feature Update",
       "features": [
-        "Native Agent-to-Agent (A2A) protocol support with streaming capabilities",
-        "Cross-platform voice recognition with OS-specific optimizations",
-        "Seamless MCP server integration with drag-and-drop file support",
-        "Multi-model support with intelligent routing",
-        "Persistent chat history with search and organization",
-        "Real-time AI tool integration and context-aware conversations"
+        "47 language support",
+        "Language selection in Explore to Language settings"
       ]
     },
     {
       "id": 3,
-      "title": "VoidAI Pedro - Beta Foundation",
-      "description": "Established core functionality with multi-model support and comprehensive chat management.",
-      "date": "December 10, 2025",
-      "category": "Minor Updates",
+      "title": "Introducing VoidAI Spaces",
+      "description": "Alpha release of Spaces - AI-augmented workspaces where users can collaborate with VoidAI in dedicated environments.",
+      "date": "February 13, 2026",
+      "category": "Feature Update",
       "features": [
-        "Multi-model AI support with intelligent routing",
-        "Comprehensive chat history management",
-        "Context window optimization",
-        "Memory management for long conversations",
-        "Enhanced error handling and API reliability",
-        "Basic MCP protocol integration"
+        "Personal Spaces with VoidAI augmentation",
+        "AI-powered workspace organization"
       ]
     },
     {
       "id": 4,
-      "title": "VoidAI v1.9 - Performance Improvements & Bug Fixes",
-      "description": "Performance enhancements, bug fixes, and stability improvements to ensure reliable operation.",
-      "date": "November 20, 2025",
-      "category": "Improvements & Fixes",
+      "title": "VoidAI Accounts",
+      "description": "User accounts system with persistent history and preferences (some saving issues exist, will be fixed in Feb 30).",
+      "date": "February 19, 2026",
+      "category": "Feature Update",
       "features": [
-        "Faster response times for AI queries",
-        "Optimized memory usage for long conversations",
-        "Improved UI responsiveness on mobile devices",
-        "Better error handling and recovery mechanisms",
-        "Enhanced accessibility features",
-        "Fixed memory leaks in long-running sessions",
-        "Resolved connection timeout issues",
-        "Fixed UI rendering bugs on Safari browser",
-        "Corrected date formatting in chat history",
-        "Fixed keyboard navigation issues"
+        "User account creation and login",
+        "Persistent chat history",
+        "User preferences and settings"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "VoidAI Apps and Agents",
+      "description": "Extend VoidAI with powerful apps and intelligent agents that VoidAI orchestrates for extended capabilities.",
+      "date": "February 26, 2026",
+      "category": "Feature Update",
+      "features": [
+        "Install apps to add new functionality",
+        "VoidAI orchestrates available agents automatically",
+        "Unified app marketplace for easy discovery"
       ]
     }
   ]
