@@ -47,25 +47,16 @@
     },
     {
       "id": 4,
-      "title": "VoidAI v1.9 - Performance Improvements",
-      "description": "Focus on performance enhancements and user experience refinements across the platform.",
+      "title": "VoidAI v1.9 - Performance Improvements & Bug Fixes",
+      "description": "Performance enhancements, bug fixes, and stability improvements to ensure reliable operation.",
       "date": "November 20, 2025",
-      "category": "Improvements",
+      "category": "Improvements & Fixes",
       "features": [
         "Faster response times for AI queries",
         "Optimized memory usage for long conversations",
         "Improved UI responsiveness on mobile devices",
         "Better error handling and recovery mechanisms",
-        "Enhanced accessibility features"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "VoidAI v1.8 - Bug Fixes",
-      "description": "Critical bug fixes and stability improvements to ensure reliable operation.",
-      "date": "October 15, 2025",
-      "category": "Fixes",
-      "features": [
+        "Enhanced accessibility features",
         "Fixed memory leaks in long-running sessions",
         "Resolved connection timeout issues",
         "Fixed UI rendering bugs on Safari browser",
