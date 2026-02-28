@@ -5,7 +5,7 @@
       "title": "VoidAI v2.1.0 - Enhanced Alpha Experience",
       "description": "Major improvements to sidebar navigation, user profiles, and overall user experience based on early alpha feedback.",
       "date": "February 28, 2026",
-      "category": "Feature Update",
+      "category": "Major Update",
       "features": [
         "Redesigned sidebar with improved navigation and user profile dropdown",
         "Mode selection guide with helpful explanations for Fast vs Power modes",
@@ -20,7 +20,7 @@
       "title": "VoidAI v2.0 - Major Architecture Update",
       "description": "Complete overhaul with A2A protocol integration, enhanced voice recognition, and advanced tool management.",
       "date": "January 15, 2026",
-      "category": "Major Release",
+      "category": "Minor Updates",
       "features": [
         "Native Agent-to-Agent (A2A) protocol support with streaming capabilities",
         "Cross-platform voice recognition with OS-specific optimizations",
@@ -35,7 +35,7 @@
       "title": "VoidAI Pedro - Beta Foundation",
       "description": "Established core functionality with multi-model support and comprehensive chat management.",
       "date": "December 10, 2025",
-      "category": "Beta Release",
+      "category": "Improvements and Fixes",
       "features": [
         "Multi-model AI support with intelligent routing",
         "Comprehensive chat history management",
